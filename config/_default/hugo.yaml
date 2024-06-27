@@ -32,7 +32,7 @@ languages:
         weight: 1
         params:
             description: Web de electricidad del norte
-
+enableEmoji: true
 services:
     # Change it to your Disqus shortname before using
     # disqus:

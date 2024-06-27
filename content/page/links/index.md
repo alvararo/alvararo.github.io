@@ -1,5 +1,6 @@
 ---
 title: Enlaces
+readingTime: false
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
@@ -24,6 +25,7 @@ menu:
             icon: link
 
 comments: false
+license: false
 ---
 
 Enlaces de utilidad
