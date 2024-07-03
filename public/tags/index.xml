@@ -15,46 +15,6 @@
         <guid>http://localhost:1313/tags/electricidad/</guid>
         <description></description>
         </item>
-        <item>
-        <title>Compañías Eléctricas</title>
-        <link>http://localhost:1313/tags/compa%C3%B1%C3%ADas-el%C3%A9ctricas/</link>
-        <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/compa%C3%B1%C3%ADas-el%C3%A9ctricas/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Mercado De La Luz</title>
-        <link>http://localhost:1313/tags/mercado-de-la-luz/</link>
-        <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/mercado-de-la-luz/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Ayudas</title>
-        <link>http://localhost:1313/tags/ayudas/</link>
-        <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/ayudas/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Subvenciones</title>
-        <link>http://localhost:1313/tags/subvenciones/</link>
-        <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/subvenciones/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Ahorro Energético</title>
-        <link>http://localhost:1313/tags/ahorro-energ%C3%A9tico/</link>
-        <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/ahorro-energ%C3%A9tico/</guid>
-        <description></description>
-        </item>
         
     </channel>
 </rss>

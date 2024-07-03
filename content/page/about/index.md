@@ -1,11 +1,10 @@
 ---
 title: Conócenos
 description: Instalador eléctrico autorizado en Asturias.
-date: '2024-02-28'
+date: false
 aliases:
   - about-us
   - contact
-license: CC BY-NC-ND
 enableEmoji: true
 readingTime: false
 menu:
@@ -15,9 +14,11 @@ menu:
             icon: user
 ---
 
-Todo nuestro equipo tiene varios años de experiencia en reparaciones de maquinaria eléctrica, instalaciones y en diseño de instalaciones fotovoltaicas y de calefacción para viviendas y PYMEs.
+En E.D.N. tenemos varios años de experiencia y formación en ingeniería y como técnicos electricistas. LLevamos a cabo un amplio rango de trabajos en cuanto a reparaciones de maquinaria eléctrica, instalaciones en viviendas, diseño de instalaciones fotovoltaicas y de calefacción para viviendas y PYMEs siempre con la satisfacción de los clientes.<!--more-->
+Contacta con nosotros para solicitar presupuesto o asesoramiento:
 
 :telephone_receiver: Teléfono: __684 60 15 87__<!--more-->
+<!--more-->
 💬 [Whatsapp](https://wa.me/0034684601587)
 <!--more-->
 :envelope: Correo electrónico: [electrinorteasturias@gmail.com](electrinorteasturias@gmail.com)
