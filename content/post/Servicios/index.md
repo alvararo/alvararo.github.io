@@ -12,6 +12,7 @@ categories = [
     "Servicios"
 ]
 image = "declan-sun-F6M9_IxQBJw-unsplash.jpg"
+license = "Todos los derechos reservados. Imagen con licencia libre de [Unsplash](https://unsplash.com/es/fotos/un-alto-edificio-blanco-con-un-cielo-azul-en-el-fondo-F6M9_IxQBJw)"
 +++
 
 ## Ofrecemos servicios de electricidad, desde reparaciones a proyectos de ingeniería y certificaciones.

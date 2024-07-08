@@ -28,7 +28,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Copyright"
+default = "Todos los derechos reservados"
 
 ## Widgets
 [[widgets.homepage]]
