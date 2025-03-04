@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='http://localhost:1313/404.html'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="404 Page not found">
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="404 Page not found">
 <meta property='og:description' content="Web de electricidad del norte">
 <meta property='og:url' content='http://localhost:1313/404.html'>
 <meta property='og:site_name' content='Electricidad del norte'>
@@ -14,9 +14,6 @@
 <meta name="twitter:title" content="404 Page not found">
 <meta name="twitter:description" content="Web de electricidad del norte">
     <link rel="shortcut icon" href="/LogoElectricidacutted.ico" />
-
-  
-
 
     </head>
     <body class="">
@@ -59,7 +56,7 @@
                     
                     
                         
-                        <img src="/img/avatar_hu0920cd727f667b8caf6e5135add8dbbe_17499_300x0_resize_box_3.png" width="300"
+                        <img src="/img/avatar_hu_1c899ee9fb26262b.png" width="300"
                             height="297" class="site-logo" loading="lazy" alt="Avatar">
                     
                 
@@ -228,19 +225,52 @@
     <div class="not-found-card">
         <h1 class="article-title">No Encontrado</h1>
         <h2 class="article-subtitle">Esta página no existe</h2>
-    </div>
-    <footer class="site-footer">
+    </div><form action="/search/" class="search-form widget" data-json="http://localhost:1313/search/index.json">
+            <p>
+                <label>Búsqueda</label>
+                <input id="searchInput" name="keyword" required placeholder="Escribe algo..." />
+            
+                <button title="Búsqueda">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                </button>
+            </p>
+        </form>
+
+        <div class="search-result">
+            <h3 class="search-result--title section-title"></h3>
+            <div class="search-result--list article-list--compact"></div>
+        </div>
+        
+        <script>
+            window.searchResultTitleTemplate = "#PAGES_COUNT páginas en (#TIME_SECONDS segundos)"
+        </script><script type="text/javascript" src="/ts/search.js" defer></script>
+
+        <script>
+            const wrongUrl = new URL(window.location.href);
+
+            
+            const searchKeyword = wrongUrl.pathname.split(/[/|-]/).join(' ').trim();
+
+            document.getElementById('searchInput').setAttribute('value', searchKeyword);
+        </script><footer class="site-footer">
     <section class="copyright">
         &copy; 
         
             2023 - 
         
-        2024 Álvaro Arufe
+        2025 Álvaro Arufe
     </section>
     
     <section class="powerby">
         Creado con <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
-        Tema <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> diseñado por <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+        Tema <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> diseñado por <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
     </section>
 </footer>
 
@@ -251,7 +281,7 @@
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+            </script><script type="text/javascript" src="/ts/main.2e9dd207ea2676d2f9cd8b48c9f5c17ebfc7451bc48a11c1a6a57211f167d3f5.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');

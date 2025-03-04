@@ -1,7 +1,6 @@
 ---
 title: Conócenos
 description: Instalador eléctrico autorizado en Asturias.
-date: false
 aliases:
   - about-us
   - contact
