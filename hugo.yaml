@@ -385,9 +385,9 @@ params:
   contact:
     enable: true
     title: "Contacta con nosotros"
-    content: ¡Llámanos o escríbenos y  nos pondremos a ello de inmediato!
-    # btnName: Mail me
-    # btnLink: mailto:electrinorteasturias@gmail.com
+    content: ¡Llama o escríbenos y  nos pondremos a ello de inmediato!
+    btnName: Envía un correo
+    btnLink: mailto:electrinorteasturias@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
