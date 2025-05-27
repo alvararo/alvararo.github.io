@@ -59,7 +59,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Electricidad del Norte"
+  title: "Electricidad Del Norte"
   description: Esto es una descripción
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/LogoElectricidacutted.png"
@@ -115,7 +115,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "E.D.N. Instalador electricista" # Brand name for the brand | default is the title variable
+    brandName: "E.D.N. Electricistas" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
