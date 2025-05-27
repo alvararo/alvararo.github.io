@@ -348,9 +348,9 @@ params:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "OCA"
+          - "CIE"
+          - "Boletín"
         links:
           # - icon: fab fa-github
           #   url: https://github.com/gurusabarish/HugoProfileV2
@@ -362,9 +362,8 @@ params:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Cargador"
+          - "Coche eléctrico"
         links:
           # - icon: fab fa-github
           #   url: https://github.com/gurusabarish/HugoProfileV2
