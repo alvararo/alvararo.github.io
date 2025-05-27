@@ -386,7 +386,7 @@ params:
     enable: true
     title: "Contacta con nosotros"
     content: ¡Llama o escríbenos y  nos pondremos a ello de inmediato!
-    btnName: Envía un correo
+    btnName: Envíanos un correo
     btnLink: mailto:electrinorteasturias@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -403,10 +403,10 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      # github: https://github.com
+       github: https://github.com/alvararo/alvararo.github.io
       # linkedin: https://linkedin.com
       # twitter: https://twitter.com
-      # gmail: https
+      # gmail: "mailto:electrinorteasturias@gmail.com"
       # instagram: https://instagram.com
       # facebook: https://facebook.com
 
