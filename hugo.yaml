@@ -321,12 +321,12 @@ params:
         badges:
           - "Renovables"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          # - icon: fa fa-envelope
+          #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          # - icon: fab fa-github
+          #   url: https://github.com/gurusabarish/hugo-profile
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Reparaciones
         content: Reparaciones en instalaciones eléctricas. Reconexión luz.
@@ -338,8 +338,8 @@ params:
           - "Reparaciones"
           - "Mantenimiento"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          # - icon: fab fa-github
+          #   url: https://github.com/gurusabarish/converter
 
       - title: Proyectos
         content: Proyectos eléctricos para su vivienda, empresa o caravana. OCA, CIE (Boletín eléctrico).
@@ -352,8 +352,9 @@ params:
           - "Bootstrap"
           - "Javascript"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          # - icon: fab fa-github
+          #   url: https://github.com/gurusabarish/HugoProfileV2
+
       - title: Estaciones de carga para coche eléctrico.
         content: Aproveche las subvenciones del Plan MOVES III. Nosotros se lo gestionamos.
         image: /images/cargadorS.jpg
@@ -365,8 +366,8 @@ params:
           - "Bootstrap"
           - "Javascript"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          # - icon: fab fa-github
+          #   url: https://github.com/gurusabarish/HugoProfileV2
 
       # - title: Mantenimientos
       #   content: Incluso dar luz de nuevo.
