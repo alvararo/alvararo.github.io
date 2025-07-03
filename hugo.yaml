@@ -431,11 +431,11 @@ params:
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
+    read: "Lectura"
+    toc: "Tabla de contenidos"
     copyright: "Copyright"
-    pageNotFound: "Página ausente"
-    emailText: "Check out this site"
+    pageNotFound: "Página no encontrada"
+    emailText: "Eche un vistazo a la página web"
 
   datesFormat:
     article: "Jan 2, 2006"
