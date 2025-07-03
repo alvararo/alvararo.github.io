@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Electricidad del Norte</title>
-    <link>https://alvararo.github.io/</link>
-    <description>Recent content on Electricidad del Norte</description>
+    <title>Electricista en Oviedo | E.D.N.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Electricista en Oviedo | E.D.N.</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <atom:link href="https://alvararo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
