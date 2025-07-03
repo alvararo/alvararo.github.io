@@ -136,8 +136,8 @@ params:
     intro: "Soluciones eléctricas de calidad"
     title: "Electricista Profesional en Oviedo y Asturias"
     subtitle: "Técnico Instalador electricista Autorizado. R.I.:034802"
-    content: "Somos un equipo de profesionales con años de experiencia, atendemos emergencias, instalaciones y mantenimientos eléctricos en hogares y empresas. Con la confianza de trabajar con un instalador autorizado\n
-    \n\ Nuestra prioridad es tu seguridad y comodidad, ofreciendo servicios garantizados y adaptados a tus necesidades. Trabajamos con precisión y transparencia, desde reparaciones urgentes hasta proyectos personalizados, tramitación de subvenciones y permisos. ¡Confía en nosotros para mantener tu electricidad en óptimas condiciones!"
+    content: "Atendemos emergencias, instalaciones y mantenimientos eléctricos en hogares y empresas. Con la confianza de trabajar con un instalador autorizado\n
+    \n\ **Escríbenos por correo electrónico o contacte rápidamente a través de Whatsapp**"
 
     image: /images/hero.jpg
     bottomImage:
@@ -145,7 +145,7 @@ params:
       roundImage: false # Make hero image circular | default false
     button:
       enable: true
-      name: "Contacta con nosotros"
+      name: "Enviar correo"
       url: "mailto:electrinorteasturias@gmail.com"
       download: true
       newPage: false
@@ -383,9 +383,13 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     title: "Contacta con nosotros"
     content: ¡Llama o escríbenos y  nos pondremos a ello de inmediato!
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-whatsapp
+          url: https://wa.me/34684601587
     btnName: Envíanos un correo
     btnLink: mailto:electrinorteasturias@gmail.com
     # formspree:
