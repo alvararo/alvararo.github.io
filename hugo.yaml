@@ -135,7 +135,7 @@ params:
     enable: true
     intro: "Soluciones eléctricas de calidad"
     title: "Electricista Profesional en Oviedo y Asturias"
-    subtitle: "Técnico Instalador electricista Autorizado. R.I.:034802"
+    subtitle: "Técnico Instalador electricista Autorizado."
     content: "Atendemos emergencias, instalaciones y mantenimientos eléctricos en hogares y empresas. Con la confianza de trabajar con un instalador autorizado\n
     \n\ **Escríbenos por correo electrónico o contacte rápidamente a través de Whatsapp**"
 
@@ -400,17 +400,18 @@ params:
     #   messageRows: 5
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
+    # recentPosts:
+    #   path: "asdfasdfasdfasdfasdf"
+    #   count: 6
+    #   title: Recent Posts
+    #   enable: true
+    #   disableFeaturedImage: true
     socialNetworks:
+     #  gmail: asldfjk@asdf.com
        github: https://github.com/alvararo/alvararo.github.io
       # linkedin: https://linkedin.com
       # twitter: https://twitter.com
-      # gmail: "mailto:electrinorteasturias@gmail.com"
+      # gmail: electrinorteasturias@gmail.com
       # instagram: https://instagram.com
       # facebook: https://facebook.com
 
