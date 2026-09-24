@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Electricista en Oviedo | E.D.N.</title>
-    <link>https://alvararo.github.io/</link>
-    <description>Recent content on Electricista en Oviedo | E.D.N.</description>
-    <generator>Hugo</generator>
-    <language>es-es</language>
-    <atom:link href="https://alvararo.github.io/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<channel>
+		<title>Electricista | Ingeniería | Instalaciones Autorizadas</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Electricista | Ingeniería | Instalaciones Autorizadas</description>
+		<generator>Hugo</generator>
+		<language>es-es</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 06 Sep 2026 21:18:28 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Servicios</title>
+				<link>http://localhost:1313/servicios/</link>
+				<pubDate>Sun, 06 Sep 2026 21:18:28 +0200</pubDate>
+				<guid>http://localhost:1313/servicios/</guid>
+				<description>&lt;p&gt;Ejemplos de servicios&lt;/p&gt;&#xA;&lt;p&gt;fotos&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contacto</title>
+				<link>http://localhost:1313/contacto/</link>
+				<pubDate>Wed, 02 Sep 2026 10:21:27 +0200</pubDate>
+				<guid>http://localhost:1313/contacto/</guid>
+				<description>&lt;h3 id=&#34;evaluación-de-proyectos&#34;&gt;Evaluación de Proyectos&lt;/h3&gt;&#xA;&lt;p&gt;Para garantizar la máxima calidad en la ejecución, analizo cada proyecto de forma técnica antes de emitir un presupuesto. Por favor, describe con detalle la naturaleza de la instalación, avería o reforma técnica que necesitas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Base operativa actual:&lt;/strong&gt; Asturias.&#xA;&lt;strong&gt;Desplazamiento geográfico:&lt;/strong&gt; Disponible para intervenciones fuera de la región previa evaluación del proyecto.&lt;/p&gt;&#xA;&lt;p&gt;Escríbeme (poner el formulario aquí)&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+			</item>
+			<item>
+				<title>Autoridad Técnica</title>
+				<link>http://localhost:1313/autoridad/</link>
+				<pubDate>Wed, 02 Sep 2026 10:21:12 +0200</pubDate>
+				<guid>http://localhost:1313/autoridad/</guid>
+				<description>&lt;h3 id=&#34;ingeniería-y-ejecución-oficial&#34;&gt;Ingeniería y Ejecución Oficial&lt;/h3&gt;&#xA;&lt;p&gt;La diferencia entre una instalación funcional y una instalación impecable reside en el conocimiento teórico aplicado. Mi perfil combina una &lt;strong&gt;alta formación en ingeniería&lt;/strong&gt; con la acreditación del Ministerio como &lt;strong&gt;Instalador Electricista Autorizado&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Esto garantiza que cada proyecto no solo se ejecuta con precisión clínica, sino que se diseña bajo un rigor normativo absoluto, eliminando riesgos y sobrecostes a largo plazo.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;áreas-de-alta-especialización&#34;&gt;Áreas de Alta Especialización&lt;/h3&gt;&#xA;&lt;p&gt;No delego la complejidad. Ejecuto y superviso directamente las instalaciones más exigentes, abarcando desde el sector residencial de lujo hasta el mantenimiento industrial crítico:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
